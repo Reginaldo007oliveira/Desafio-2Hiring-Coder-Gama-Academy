@@ -112,7 +112,7 @@ export default function Client(props: any) {
         </S.Fieldset>
 
         <S.ButtonContainer>
-          <S.ButtonSubmit type="submit">Enviar</S.ButtonSubmit>
+          <S.ButtonSubmit type="submit">Salvar</S.ButtonSubmit>
         </S.ButtonContainer>
       </form>
     </>
