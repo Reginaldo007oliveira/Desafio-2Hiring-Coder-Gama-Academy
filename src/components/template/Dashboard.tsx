@@ -53,7 +53,7 @@ export default function Dashboard() {
   return (
     <S.Main>
       <S.Nav>
-        <S.Logo href="!#">
+        <S.Logo href="#">
           <S.Image src="/logo.png" />
           Paulinho Games
         </S.Logo>
